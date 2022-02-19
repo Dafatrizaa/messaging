@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDr64U6WGVwNITpbU0j4N0KwOd7ZRGwCmQ",
-  authDomain: "healthy-icon-339511.firebaseapp.com",
-  databaseURL: "https://healthy-icon-339511-default-rtdb.firebaseio.com",
-  projectId: "healthy-icon-339511",
-  storageBucket: "healthy-icon-339511.appspot.com",
-  messagingSenderId: "17053748826",
-  appId: "1:17053748826:web:896ab731bcfacb91e01263"
+  apiKey: "AIzaSyBkTzM7b2gyVIH-NW1JM23u10obzPHH-z4",
+  authDomain: "chattappp-24165.firebaseapp.com",
+  databaseURL: "https://chattappp-24165-default-rtdb.firebaseio.com",
+  projectId: "chattappp-24165",
+  storageBucket: "chattappp-24165.appspot.com",
+  messagingSenderId: "471769851041",
+  appId: "1:471769851041:web:aeebfd2cf5751dcb99bce0"
 };
 const app = firebase.initializeApp(firebaseConfig);
